@@ -92,4 +92,4 @@ async def setup_all(ctx):
     if v_ch: await v_ch.send("✅ **للتوثيق:**", view=VerifyView())
     await ctx.send("✅ تم توزيع الأنظمة بالكامل!")
 
-bot.run('MTUwNjU1ODcwMzA4MjUzNzA4Mw.GK9Nvs.H-oTNhJgIOOT4qMssqgsxNcDxOMH2CWFUT3dog')
+bot.run('MTUwNjU1ODcwMzA4MjUzNzA4Mw.Guci9S.eVkdKgvliBNDgx5dtYL6fC0ehsU4IRqLsz2GBI')
